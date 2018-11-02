@@ -27,7 +27,7 @@ edit features\card.feature
 and run test from cmd
 behave features\card.feature
 ```
-##tests
+## tests
 ```
   |id    |request_type       |test_pattern                      | comment                         | cvv | expirtaion_month | expirtaion_year  | amount                        | result|
      |1     | selenium          |Equivalence classes partitioning  | positiv                         | 123 | 03               | 2019             | 100500.22                     | ok    |
